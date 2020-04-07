@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Table of contents
 
 * [Overview](#overview)
@@ -18,3 +19,6 @@ It illustrates various technologies useful to ICS software engineering students,
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
+=======
+
+>>>>>>> ff76ec251602d0fec570249bd675b8623d4c79e0
