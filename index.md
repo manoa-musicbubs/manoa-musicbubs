@@ -5,10 +5,12 @@
 
 * [Overview](#Overview)
 * [Links](#links)
+* [Skills](#skills)
 * [WalkThrough](#WalkThrough)
 * [Community Feedback](#Community-feedback)
 * [Development Guide](#development-Guide)
 * [Team](#Team)
+
 
 ## Overview
 
@@ -28,6 +30,20 @@ It illustrates various technologies useful to ICS software engineering students,
 * [Milestone 1](https://github.com/orgs/manoa-musicbubs/projects/3?add_cards_query=is%3Aopen)
 * [Milestone 2]
 * [Milestone 3]
+
+## goals:
+
+* Doyoung Kim: improve my understanding of frond-end coding.
+* David Badke: Issue Driven project Development.
+* Yiwen Chen: Learn how to develop a website with a team
+* Nelson Liang: Improve my coding and problem-solving skills.
+
+## Skills:
+* Doyoung Kim: Java, Java Script, Python.
+* David Badke: Java Script, Java.
+* Yiwen Chen: HTML, JavaScript, Semantic UI.
+* Nelson Liang: Java Script, Java.
+
 
 ## Team
 
