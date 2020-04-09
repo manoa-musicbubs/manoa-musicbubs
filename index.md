@@ -5,6 +5,7 @@
 
 * [Overview](#Overview)
 * [Links](#links)
+* [Goals](#goals)
 * [Skills](#skills)
 * [WalkThrough](#WalkThrough)
 * [Community Feedback](#Community-feedback)
