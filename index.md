@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 ## Table of contents
+<<<<<<< HEAD
 
 * [Overview](#Overview)
 * [Links](Links)
@@ -7,6 +7,15 @@
 * [Community Feedback](#Community-feedback)
 * [Development Guide](#development-Guide)
 * [Team](#Team)
+=======
+* [Overview](#overview)
+* [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
+* [Developer Guide](#developer-guide)
+* [Development History](#development-history)
+* [Walkthrough videos](#walkthrough-videos)
+* [Example enhancements](#example-enhancements)
+>>>>>>> 31f50de83f9aecced0fe35be6cb3d23e7cf42bc4
 
 ## Overview
 
