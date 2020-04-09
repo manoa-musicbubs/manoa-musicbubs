@@ -1,3 +1,6 @@
+![](images/manoa-qlc.jpg)
+
+
 ## Table of contents
 
 * [Overview](#Overview)
