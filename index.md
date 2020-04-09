@@ -20,8 +20,8 @@ It illustrates various technologies useful to ICS software engineering students,
 
 ## Links
 
-* [UHber Webpage](https://manoa-musicbubs.github.io/)
-* [UHber Organization Page](https://github.com/manoa-musicbubs)
+* [Manoa musicbubs Webpage](https://manoa-musicbubs.github.io/)
+* [Manoa musicbubs Organization Page](https://github.com/manoa-musicbubs)
 * [Milestone 1](https://github.com/orgs/manoa-musicbubs/projects/3?add_cards_query=is%3Aopen)
 * [Milestone 2]
 * [Milestone 3]
