@@ -1,7 +1,7 @@
 ## Table of contents
 
 * [Overview](#Overview)
-* [Links](Links)
+* [Links](#links)
 * [WalkThrough](#WalkThrough)
 * [Community Feedback](#Community-feedback)
 * [Development Guide](#development-Guide)
@@ -22,13 +22,13 @@ It illustrates various technologies useful to ICS software engineering students,
 
 * [UHber Webpage](https://manoa-musicbubs.github.io/)
 * [UHber Organization Page](https://github.com/manoa-musicbubs)
-* [Milestone 1](https://github.com/orgs/manoa-musicbubs/projects/1)
+* [Milestone 1](https://github.com/orgs/manoa-musicbubs/projects/3?add_cards_query=is%3Aopen)
 * [Milestone 2]
 * [Milestone 3]
 
 ## Team
 
-* [David Badke](https://github.com/davidBadke) (Web Developer)
+* [David Badke](https://github.com/davidrb) (Web Developer)
 * [Doyoung Kim](https://github.com/doyounghi) (Web Developer)
-* [Yiwen Chen](https://github.com/yiwenChen) (Web Developer)
-* [Nelson Liang](https://github.com/NelosnLiang) (Web Developer)
+* [Yiwen Chen](https://github.com/yiwenc22) (Web Developer)
+* [Nelson Liang](https://github.com/Nelson-Liang) (Web Developer)
