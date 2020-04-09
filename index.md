@@ -1,13 +1,12 @@
 <<<<<<< HEAD
 ## Table of contents
 
-* [Overview](#overview)
-* [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
+* [Overview](#Overview)
+* [Links](Links)
+* [WalkThrough](#WalkThrough)
+* [Community Feedback](#Community-feedback)
+* [Development Guide](#development-Guide)
+* [Team](#Team)
 
 ## Overview
 
@@ -20,5 +19,17 @@ It illustrates various technologies useful to ICS software engineering students,
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
+## Links
 
+* [UHber Webpage](https://manoa-musicbubs.github.io/)
+* [UHber Organization Page](https://github.com/manoa-musicbubs)
+* [Milestone 1](https://github.com/orgs/manoa-musicbubs/projects/1)
+* [Milestone 2]
+* [Milestone 3]
 
+## Team
+
+* [David Badke](https://github.com/davidBadke) (Web Developer)
+* [Doyoung Kim](https://github.com/doyounghi) (Web Developer)
+* [Yiwen Chen](https://github.com/yiwenChen) (Web Developer)
+* [Nelson Liang](https://github.com/NelosnLiang) (Web Developer)
