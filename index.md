@@ -41,7 +41,7 @@ It illustrates various technologies useful to ICS software engineering students,
 
 * [Manoa musicbubs Webpage](https://manoa-musicbubs.github.io/)
 * [Manoa musicbubs Organization Page](https://github.com/manoa-musicbubs)
-* [Milestone 1](https://github.com/manoa-musicbubs/manoa-musicbuds-source/projects)
+* [Milestone 1](https://github.com/manoa-musicbubs/manoa-musicbuds-source/projects/1)
 * [Milestone 2]
 * [Milestone 3]
 
