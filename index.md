@@ -1,4 +1,4 @@
-![](images/manoa-qlc.jpg)
+![](images/music.jpg)
 
 
 ## Table of contents
@@ -16,6 +16,10 @@
 ## Overview
 
 manoa-musicbuds is an example web application where many UH students with great musical talents find others with similar tastes and compatible musical abilities. It will allow students to login and create a profile indicating their musical tastes, their musical capabilities, and their musical goals (from occasional, informal jam sessions to performing bands). The profile can also include links to YouTube videos or SoundCloud tracks with examples of their musicianship. 
+
+## Site info
+Site [HomePage](http://musicbubs.meteorapp.com/#/) : 
+![](images/Landingpage.png)
 
 It illustrates various technologies useful to ICS software engineering students, including:
 
