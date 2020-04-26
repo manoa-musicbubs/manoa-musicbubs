@@ -19,16 +19,40 @@ manoa-musicbuds is an example web application where many UH students with great 
 
 ## Site info
 Site [Landing](http://musicbubs.meteorapp.com/#/) : 
-![](images/Landingpage.png)
+![](images/LandingPage.png)
 
 [Sign-Up Page](http://musicbubs.meteorapp.com/#/signup) :
-![](images/signuppage.png)
+![](images/up.png)
 
 [Log-In Page](http://musicbubs.meteorapp.com/#/signin) :
-![](images/loginpage.png)
+![](images/in.png)
 
-User-HomePage:
-![](images/usershomepage.png)
+Your info Page: After user sign in, it will bring users to the your info page to enter info about them.
+![](images/yourinfo.png)
+![](images/filledinfo.png)
+
+All Manoabubs Page: After user enter information, user can see all user that have sign up for the page including the user itself.
+It show user name, email, contact, tastes of music, event invold, and dream and goal.
+![](images/allusers.png)
+
+Event Page: Show all the events that is going on right now.
+It show who is inside too.
+![](images/events.png)
+
+Taste of Music Page: Show all the Taste of Music and show users icon under the taste it have.
+![](images/taste.png)
+
+FeelingLonley Page: Help user that just want to meet random friend, can click on it. It will random one music bubs.
+![](images/random.png)
+
+Add Event Page: Allow users to add new event that is happening in the music world.
+![](images/addevents.png)
+
+Find Match Page: Allow users to filter the taste of music to find the music bub that is perfect for them.
+![](images/find.png)
+
+Added MusicBubs Page: Are the added musicbubs from the user.
+![](images/addbro.png)
 
 It illustrates various technologies useful to ICS software engineering students, including:
 
