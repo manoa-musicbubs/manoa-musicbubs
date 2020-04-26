@@ -18,13 +18,13 @@
 manoa-musicbuds is an example web application where many UH students with great musical talents find others with similar tastes and compatible musical abilities. It will allow students to login and create a profile indicating their musical tastes, their musical capabilities, and their musical goals (from occasional, informal jam sessions to performing bands). The profile can also include links to YouTube videos or SoundCloud tracks with examples of their musicianship. 
 
 ## Site info
-Site [Landing](http://musicbubs.meteorapp.com/#/) : 
+Site [Landing](http://musicbub.meteorapp.com/#/) : 
 ![](images/LandingPage.png)
 
-[Sign-Up Page](http://musicbubs.meteorapp.com/#/signup) :
+[Sign-Up Page](http://musicbub.meteorapp.com/#/signup) :
 ![](images/up.png)
 
-[Log-In Page](http://musicbubs.meteorapp.com/#/signin) :
+[Log-In Page](http://musicbub.meteorapp.com/#/signin) :
 ![](images/in.png)
 
 Your info Page: After user sign in, it will bring users to the your info page to enter info about them.
