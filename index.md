@@ -119,6 +119,7 @@ I20200428-11:00:19.981(-10)? Defining project JVNA
 => App running at: http://localhost:3000/
    Type Control-C twice to stop.
 ```
+Check to see that it’s running at http://localhost:3000. Take a look at the console to be sure there are no errors.
 
 ### Note regarding "bcrypt warning":
 
@@ -139,7 +140,7 @@ On some operating systems (particularly Windows), installing bcrypt is much more
 
 ### Reset：
 
-To clear the database from changes on http://localhost:3000, run:
+To clear the database from changes made on the application, run:
 
 ```
 $ meteor reset
