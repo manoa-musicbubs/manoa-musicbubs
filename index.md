@@ -69,7 +69,6 @@ It illustrates various technologies useful to ICS software engineering students,
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Development Guide
-## Installation
 
 First, [install Meteor](https://www.meteor.com/install).
 
@@ -82,8 +81,6 @@ Fourth, cd into the app/ directory of your local copy of the repo, and install t
 ```
 $ meteor npm install
 ```
-
-## Running the system
 
 Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/manoa-musicbubs/manoa-musicbuds-source/blob/master/app/package.json):
 
