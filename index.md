@@ -5,14 +5,12 @@
 
 * [Overview](#Overview)
 * [Site Info](#site-info)
-* [Installation](#Installation)
-* [Running the system](#Running-the-system)
+* [Development Guide](#development-Guide)
 * [Links](#links)
 * [Goals](#goals)
 * [Skills](#skills)
 * [WalkThrough](#WalkThrough)
 * [Community Feedback](#Community-feedback)
-* [Development Guide](#development-Guide)
 * [Team](#Team)
 
 
