@@ -5,6 +5,7 @@
 
 * [Overview](#Overview)
 * [Site Info](#site-info)
+* [Installation](#Installation)
 * [Links](#links)
 * [Goals](#goals)
 * [Skills](#skills)
@@ -67,6 +68,89 @@ It illustrates various technologies useful to ICS software engineering students,
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
+
+## Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, go to [https://github.com/Nelson-Liang/digits](https://github.com/Nelson-Liang/digits), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
+
+Third, go to your newly created repository, and click the "Clone or download" button to download your new GitHub repo to your local file system.  Using [GitHub Desktop](https://desktop.github.com/) is a great choice if you use MacOS or Windows.
+
+Fourth, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+
+```
+$ meteor npm install
+```
+
+## Running the system
+
+Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/Nelson-Liang/digits/blob/master/app/package.json):
+
+```
+$ meteor npm run start
+```
+
+The first time you run the app, it will create some default users and data. Here is the output:
+
+```
+> manoamusicbubs@ start C:\Users\leyva\Documents\GitHub\manoa-musicbuds-source\app
+> meteor --no-release-check --settings ../config/settings.development.json
+
+[[[[[ C:\Users\leyva\Documents\GitHub\manoa-musicbuds-source\app ]]]]]
+
+=> Started proxy.
+=> Started MongoDB.
+W20200428-11:00:18.056(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
+W20200428-11:00:18.144(-10)? (STDERR) While this implementation will work correctly, it is known to be
+W20200428-11:00:18.145(-10)? (STDERR) approximately three times slower than the native implementation.
+W20200428-11:00:18.145(-10)? (STDERR) In order to use the native implementation instead, run
+W20200428-11:00:18.146(-10)? (STDERR)
+W20200428-11:00:18.146(-10)? (STDERR)   meteor npm install --save bcrypt
+W20200428-11:00:18.146(-10)? (STDERR)
+W20200428-11:00:18.147(-10)? (STDERR) in the root directory of your application.
+I20200428-11:00:19.286(-10)? Creating the default profiles
+I20200428-11:00:19.286(-10)? Defining profile bot@gmail.com
+I20200428-11:00:19.981(-10)? Creating the default projects
+I20200428-11:00:19.981(-10)? Defining project JVNA
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+   Type Control-C twice to stop.
+```
+
+### Note regarding "bcrypt warning":
+
+You will also get the following message when you run this application:
+
+```
+Note: you are using a pure-JavaScript implementation of bcrypt.
+While this implementation will work correctly, it is known to be
+approximately three times slower than the native implementation.
+In order to use the native implementation instead, run
+
+  meteor npm install --save bcrypt
+
+in the root directory of your application.
+```
+
+On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
+
+### Reset
+
+To clear the database from changes on http://localhost:3000, run:
+
+```
+$ meteor reset
+```
+
+### ESLint
+
+You can verify that the code obeys our coding standards by running ESLint over the code in the imports/ directory with:
+
+```
+meteor npm run lint
+```
 
 ## Links
 
