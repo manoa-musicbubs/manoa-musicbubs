@@ -4,7 +4,7 @@
 ## Table of contents
 
 * [Overview](#Overview)
-* [Site Info](#Site-Info)
+* [Site Info](#site-info)
 * [Links](#links)
 * [Goals](#goals)
 * [Skills](#skills)
