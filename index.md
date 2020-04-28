@@ -4,6 +4,7 @@
 ## Table of contents
 
 * [Overview](#Overview)
+* [Site Info](#Site-Info)
 * [Links](#links)
 * [Goals](#goals)
 * [Skills](#skills)
@@ -17,42 +18,48 @@
 
 manoa-musicbuds is an example web application where many UH students with great musical talents find others with similar tastes and compatible musical abilities. It will allow students to login and create a profile indicating their musical tastes, their musical capabilities, and their musical goals (from occasional, informal jam sessions to performing bands). The profile can also include links to YouTube videos or SoundCloud tracks with examples of their musicianship. 
 
-## Site info
-Site [Landing](http://musicbub.meteorapp.com/#/) : 
-![](images/LandingPage.png)
+## Site Info
+Site [Landing](http://musicbuds.meteorapp.com/#/) : Can see the brief overall of the Site.
+![](images/1.png)
 
-[Sign-Up Page](http://musicbub.meteorapp.com/#/signup) :
-![](images/up.png)
+[Sign-Up Page](http://musicbuds.meteorapp.com/#/signup) : Users can sign up with email and a password.
+![](images/2.png)
 
-[Log-In Page](http://musicbub.meteorapp.com/#/signin) :
-![](images/in.png)
+[Log-In Page](http://musicbuds.meteorapp.com/#/signin) : 
+![](images/3.png)
 
-Your info Page: After user sign in, it will bring users to the your info page to enter info about them.
+Your info Page: After user sign in, it will bring users to your info page to enter info about them.
 ![](images/yourinfo.png)
-![](images/filledinfo.png)
+![](images/4.png)
 
-All Manoabubs Page: After user enter information, user can see all user that have sign up for the page including the user itself.
-It show user name, email, contact, tastes of music, event invold, and dream and goal.
-![](images/allusers.png)
+All Manoabubs Page: After user enter information, user can see all other users that have sign up for the site including the user itself.
+It shows user name, email, contact, tastes of music, instrument, event, and dream and goal.
+![](images/5.png)
 
-Event Page: Show all the events that is going on right now.
-It show who is inside too.
-![](images/events.png)
+Find Match Page: Allow user to filter though taste of music or instrument others users have. So the users can find the perfect musicbuds.
+![](images/6.png)
 
-Taste of Music Page: Show all the Taste of Music and show users icon under the taste it have.
-![](images/taste.png)
+Events Page : Shows events of music that is upload by other users or the admin.
+![](images/7.png)
 
-FeelingLonley Page: Help user that just want to meet random friend, can click on it. It will random one music bubs.
-![](images/random.png)
+Add Events Page : Allow users to add events, that users is involved in or want to share.
+![](images/8.png)
 
-Add Event Page: Allow users to add new event that is happening in the music world.
-![](images/addevents.png)
+All Band Page : Show bands that is upload by other users or the admin. Allow users to apply for position of the band.
+![](images/9.png)
+![](images/10.png)
 
-Find Match Page: Allow users to filter the taste of music to find the music bub that is perfect for them.
-![](images/find.png)
+Add Band Page : Allow users to add brands, that users is involved or want to share.
+![](images/11.png)
 
-Added MusicBubs Page: Are the added musicbubs from the user.
-![](images/addbro.png)
+Taste of Music Page : Show the taste of music the site have and what users have the same tastes with others.
+![](images/12.png)
+
+FeelingLonely Page : Help user that just want to meet random friend, can click on it. It will random one music bubs.
+![](images/13.png)
+
+Added MusicBubs Page: Shows the musicbuds that the users added.
+![](images/14.png)
 
 It illustrates various technologies useful to ICS software engineering students, including:
 
