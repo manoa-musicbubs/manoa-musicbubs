@@ -70,6 +70,7 @@ It illustrates various technologies useful to ICS software engineering students,
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
+## Development Guide
 ## Installation
 
 First, [install Meteor](https://www.meteor.com/install).
