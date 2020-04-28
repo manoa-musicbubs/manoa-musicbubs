@@ -121,7 +121,7 @@ I20200428-11:00:19.981(-10)? Defining project JVNA
 ```
 Check to see that it’s running at [http://localhost:3000](http://localhost:3000). Take a look at the console to be sure there are no errors.
 
-##Note regarding "bcrypt warning":##
+**Note regarding "bcrypt warning":**
 
 You will also get the following message when you run this application:
 
@@ -138,7 +138,7 @@ in the root directory of your application.
 
 On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
 
-##Reset##
+**Reset**
 
 To clear the database from changes made on the application, run:
 
@@ -146,7 +146,7 @@ To clear the database from changes made on the application, run:
 $ meteor reset
 ```
 
-##ESLint##
+**ESLint**
 
 You can verify that the code obeys our coding standards by running ESLint over the code in the imports/ directory with:
 
