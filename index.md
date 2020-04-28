@@ -117,6 +117,7 @@ I20200428-11:00:19.981(-10)? Defining project JVNA
 ```
 Check to see that it’s running at [http://localhost:3000](http://localhost:3000). Take a look at the console to be sure there are no errors.
 
+
 **Note regarding "bcrypt warning":**
 
 You will also get the following message when you run this application:
