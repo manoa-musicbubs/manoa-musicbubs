@@ -159,7 +159,7 @@ meteor npm run lint
 * [Milestone 2](https://github.com/manoa-musicbubs/manoa-musicbuds-source/projects/3#column-8772765)
 * [Milestone 3](https://github.com/manoa-musicbubs/manoa-musicbuds-source/projects/4)
 
-## goals:
+## Goals:
 
 * Doyoung Kim: improve my understanding of frond-end coding.
 * David Badke: Issue Driven project Development.
