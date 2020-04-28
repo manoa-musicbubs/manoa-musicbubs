@@ -73,7 +73,7 @@ It illustrates various technologies useful to ICS software engineering students,
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, go to [https://github.com/Nelson-Liang/digits](https://github.com/Nelson-Liang/digits), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
+Second, go to [https://github.com/manoa-musicbubs/manoa-musicbubs.github.io](https://github.com/manoa-musicbubs/manoa-musicbubs.github.io), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
 
 Third, go to your newly created repository, and click the "Clone or download" button to download your new GitHub repo to your local file system.  Using [GitHub Desktop](https://desktop.github.com/) is a great choice if you use MacOS or Windows.
 
