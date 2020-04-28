@@ -94,10 +94,10 @@ $ meteor npm run start
 The first time you run the app, it will create some default users and data. Here is the output:
 
 ```
-> manoamusicbubs@ start C:\Users\leyva\Documents\GitHub\manoa-musicbuds-source\app
+> manoamusicbubs@ start C:\Users\Name\Documents\GitHub\manoa-musicbuds-source\app
 > meteor --no-release-check --settings ../config/settings.development.json
 
-[[[[[ C:\Users\leyva\Documents\GitHub\manoa-musicbuds-source\app ]]]]]
+[[[[[ C:\Users\Name\Documents\GitHub\manoa-musicbuds-source\app ]]]]]
 
 => Started proxy.
 => Started MongoDB.
