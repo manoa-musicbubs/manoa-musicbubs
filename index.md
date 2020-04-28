@@ -73,7 +73,7 @@ It illustrates various technologies useful to ICS software engineering students,
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, go to [https://github.com/manoa-musicbubs/manoa-musicbubs.github.io](https://github.com/manoa-musicbubs/manoa-musicbubs.github.io), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
+Second, go to [https://github.com/manoa-musicbubs/manoa-musicbuds-source](https://github.com/manoa-musicbubs/manoa-musicbuds-source), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
 
 Third, go to your newly created repository, and click the "Clone or download" button to download your new GitHub repo to your local file system.  Using [GitHub Desktop](https://desktop.github.com/) is a great choice if you use MacOS or Windows.
 
@@ -85,7 +85,7 @@ $ meteor npm install
 
 ## Running the system
 
-Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/Nelson-Liang/digits/blob/master/app/package.json):
+Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/manoa-musicbubs/manoa-musicbuds-source/blob/master/app/package.json):
 
 ```
 $ meteor npm run start
