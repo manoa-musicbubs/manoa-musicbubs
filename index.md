@@ -6,7 +6,7 @@
 * [Overview](#Overview)
 * [Site Info](#site-info)
 * [Installation](#Installation)
-* [Running the system](#Running the system)
+* [Running the system](#Running-the-system)
 * [Links](#links)
 * [Goals](#goals)
 * [Skills](#skills)
