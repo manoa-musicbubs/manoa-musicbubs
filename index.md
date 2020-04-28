@@ -148,7 +148,7 @@ $ meteor reset
 You can verify that the code obeys our coding standards by running ESLint over the code in the imports/ directory with:
 
 ```
-meteor npm run lint
+$ meteor npm run lint
 ```
 
 ## Links
