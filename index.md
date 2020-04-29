@@ -3,62 +3,62 @@
 
 ## Table of contents
 
-* [Overview](#Overview)
+* [Overview](#overview)
 * [Site Info](#site-info)
-* [Development Guide](#development-Guide)
+* [Development Guide](#development-guide)
+* [Galaxy Development Guide](#deploy-on-galaxy-option)
 * [Links](#links)
 * [Goals](#goals)
 * [Skills](#skills)
-* [WalkThrough](#WalkThrough)
 * [Community Feedback](#Community-feedback)
 * [Team](#Team)
 
 
 ## Overview
 
-manoa-musicbuds is an example web application where many UH students with great musical talents find others with similar tastes and compatible musical abilities. It will allow students to login and create a profile indicating their musical tastes, their musical capabilities, and their musical goals (from occasional, informal jam sessions to performing bands). The profile can also include links to YouTube videos or SoundCloud tracks with examples of their musicianship. 
+Manoa-musicbuds is an example web application where many UH students with great musical talents find others with similar tastes and compatible musical abilities. It will allow students to login and create a profile indicating their musical tastes, their musical capabilities, and their musical goals (from occasional, informal jam sessions to performing bands). The profile can also include links to YouTube videos or SoundCloud tracks with examples of their musicianship. 
 
 ## Site Info
-Site [Landing](http://musicbuds.meteorapp.com/#/) : Can see the brief overall of the Site.
+**[Site Landing](http://musicbuds.meteorapp.com/#/)** : Can see the brief overall of the Site.
 ![](images/1.png)
 
-[Sign-Up Page](http://musicbuds.meteorapp.com/#/signup) : Users can sign up with email and a password.
+**[Sign-Up Page](http://musicbuds.meteorapp.com/#/signup)** : Users can sign up with email and a password.
 ![](images/2.png)
 
-[Log-In Page](http://musicbuds.meteorapp.com/#/signin) : 
+**[Log-In Page](http://musicbuds.meteorapp.com/#/signin)** : 
 ![](images/3.png)
 
-Your info Page: After user sign in, it will bring users to your info page to enter info about them.
+**Your info Page**: After user sign in, it will bring users to your info page to enter info about them.
 ![](images/yourinfo.png)
 ![](images/4.png)
 
-All Manoabubs Page: After user enter information, user can see all other users that have sign up for the site including the user itself.
+**All Manoabubs Page**: After user enter information, user can see all other users that have sign up for the site including the user itself.
 It shows user name, email, contact, tastes of music, instrument, event, and dream and goal.
 ![](images/5.png)
 
-Find Match Page: Allow user to filter though taste of music or instrument others users have. So the users can find the perfect musicbuds.
+**Find Match Page**: Allow user to filter though taste of music or instrument others users have. So the users can find the perfect musicbuds.
 ![](images/6.png)
 
-Events Page : Shows events of music that is upload by other users or the admin.
+**Events Page** : Shows events of music that is upload by other users or the admin.
 ![](images/7.png)
 
-Add Events Page : Allow users to add events, that users is involved in or want to share.
+**Add Events Page** : Allow users to add events, that users is involved in or want to share.
 ![](images/8.png)
 
-All Band Page : Show bands that is upload by other users or the admin. Allow users to apply for position of the band.
+**All Band Page** : Show bands that is upload by other users or the admin. Allow users to apply for position of the band.
 ![](images/9.png)
 ![](images/10.png)
 
-Add Band Page : Allow users to add brands, that users is involved or want to share.
+**Add Band Page** : Allow users to add brands, that users is involved or want to share.
 ![](images/11.png)
 
-Taste of Music Page : Show the taste of music the site have and what users have the same tastes with others.
+**Taste of Music Page** : Show the taste of music the site have and what users have the same tastes with others.
 ![](images/12.png)
 
-FeelingLonely Page : Help user that just want to meet random friend, can click on it. It will random one music bubs.
+**FeelingLonely Page** : Help user that just want to meet random friend, can click on it. It will random one music bubs.
 ![](images/13.png)
 
-Added MusicBubs Page: Shows the musicbuds that the users added.
+**Added MusicBubs Page**: Shows the musicbuds that the users added.
 ![](images/14.png)
 
 It illustrates various technologies useful to ICS software engineering students, including:
@@ -150,11 +150,40 @@ You can verify that the code obeys our coding standards by running ESLint over t
 ```
 $ meteor npm run lint
 ```
+## Deploy On Galaxy Option
+**Step 1** :Sign up with [meteor.com](https://www.meteor.com/sign-up) and [MongoDB](https://www.mongodb.com/cloud/atlas).
+
+**Step 2** :Create a new cluster
+
+**Step 3** :Create a user and password for accessing this database
+
+**Step 4** :Define the whitelist so that this database can be accessed
+
+**Step 5** :Get the connection string for use in your settings.production.json file.
+
+**Step 6**: Create [settings.production.json](https://galaxy-guide.meteor.com/deploy-guide.html#settings-create) file for the application
+Example: Where <password> is the password you created.
+```$xslt
+{
+  "galaxy.meteor.com": {
+    "env": {
+      "MONGO_URL": "mongodb+srv://admin:<password>@cluster0-vkle3.mongodb.net/test?retryWrites=true&w=majority"
+    }
+  },
+  "defaultData": .....
+}
+```
+**Step 7** : [Deploy your application to Galaxy](https://galaxy-guide.meteor.com/deploy-guide.html#galaxy-deploy)
+
+**Step 8** : Monitor Deployment at [Galaxy](https://galaxy.meteor.com/).
+
+**Step 9** : Monitor Collection at [Mongodb](https://www.mongodb.com/).
 
 ## Links
 
 * [Manoa musicbubs Webpage](https://manoa-musicbubs.github.io/)
 * [Manoa musicbubs Organization Page](https://github.com/manoa-musicbubs)
+* [Manoa Musicbubs Homepage](http://musicbuds.meteorapp.com/#/)
 * [Milestone 1](https://github.com/manoa-musicbubs/manoa-musicbuds-source/projects/1)
 * [Milestone 2](https://github.com/manoa-musicbubs/manoa-musicbuds-source/projects/3#column-8772765)
 * [Milestone 3](https://github.com/manoa-musicbubs/manoa-musicbuds-source/projects/4)
