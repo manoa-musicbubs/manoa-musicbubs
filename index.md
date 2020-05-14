@@ -202,7 +202,7 @@ Example: Where <password> is the password you created.
 * Nelson Liang: Java Script, Java.
 
 ## Community Feedback:
-**Chakhon La** (ICS 241 Students) - Everything look pretty clean, but will be nice if user can DM Others users. 
+**Chakhon Lam** (ICS 241 Students) - Everything look pretty clean, but will be nice if user can DM Others users. 
 
 **ChengCheng He** (Freshmen In ICS) - The overall of the site is ok and it should have more selection of music genres inside to select.
  
