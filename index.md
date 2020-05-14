@@ -10,7 +10,7 @@
 * [Links](#links)
 * [Goals](#goals)
 * [Skills](#skills)
-* [Community Feedback](#Community-feedback)
+* [Community Feedback](#community-feedback)
 * [Team](#Team)
 
 
@@ -200,6 +200,17 @@ Example: Where <password> is the password you created.
 * David Badke: Java Script, Java.
 * Yiwen Chen: HTML, JavaScript, Semantic UI.
 * Nelson Liang: Java Script, Java.
+
+## Community Feedback:
+**Chakhon La** (ICS 241 Students) - Everything look pretty clean, but will be nice if user can DM Others users. 
+
+**ChengCheng He** (Freshmen In ICS) - The overall of the site is ok and it should have more selection of music genres inside to select.
+ 
+**Wenxuan Xu** (Sophomores In EE) - Everything look doll, not colorful enough.
+
+**Zhihao Lin** (Sophomores In Marketing) - Not sure how to use the app, maybe add some instruction in the homepage.
+
+**Shengtong Jin** (ICS 241 Students) - It will be cool if users can add there favorite songs in the profile and others user can click on it to listen. This can be also be use as another filter option.
 
 
 ## Team
